@@ -1,7 +1,0 @@
-* itbury
-
-This is a description of my itbury.
-
-** Usage
-
-To use my project, run this command: ./itbury --verbose
