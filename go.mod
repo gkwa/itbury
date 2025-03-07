@@ -1,13 +1,15 @@
 module github.com/taylormonacelli/itbury
 
-go 1.21.4
+go 1.23.0
+
+toolchain go1.24.1
 
 require (
 	github.com/fsnotify/fsnotify v1.8.0
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.19.0
 	github.com/taylormonacelli/goldbug v0.0.6
-	golang.org/x/time v0.10.0
+	golang.org/x/time v0.11.0
 )
 
 require (
