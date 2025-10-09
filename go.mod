@@ -2,7 +2,7 @@ module github.com/taylormonacelli/itbury
 
 go 1.24.0
 
-toolchain go1.25.1
+toolchain go1.25.2
 
 require (
 	github.com/fsnotify/fsnotify v1.9.0
