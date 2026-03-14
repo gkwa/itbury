@@ -1,6 +1,6 @@
 module github.com/taylormonacelli/itbury
 
-go 1.24.0
+go 1.25.0
 
 toolchain go1.26.1
 
@@ -9,7 +9,7 @@ require (
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	github.com/taylormonacelli/goldbug v0.0.6
-	golang.org/x/time v0.14.0
+	golang.org/x/time v0.15.0
 )
 
 require (
